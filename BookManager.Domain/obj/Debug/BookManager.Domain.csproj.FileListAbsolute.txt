@@ -1,0 +1,6 @@
+c:\users\martin\source\repos\BookManagerDb\BookManager.Domain\bin\Debug\BookManager.Domain.dll
+c:\users\martin\source\repos\BookManagerDb\BookManager.Domain\bin\Debug\BookManager.Domain.pdb
+c:\users\martin\source\repos\BookManagerDb\BookManager.Domain\obj\Debug\BookManager.Domain.csprojResolveAssemblyReference.cache
+c:\users\martin\source\repos\BookManagerDb\BookManager.Domain\obj\Debug\BookManager.Domain.csproj.CoreCompileInputs.cache
+c:\users\martin\source\repos\BookManagerDb\BookManager.Domain\obj\Debug\BookManager.Domain.dll
+c:\users\martin\source\repos\BookManagerDb\BookManager.Domain\obj\Debug\BookManager.Domain.pdb
